@@ -1,5 +1,6 @@
-# agroterra
-Software de Gerenciamento de produtores rurais, parceiros e trabalhadores do meio rural
+# AgroTerra
+
+# Software de Gerenciamento de produtores rurais, parceiros e trabalhadores do meio rural
 
 -Funções a serem implementadas:
 
