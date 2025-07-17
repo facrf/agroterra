@@ -20,8 +20,8 @@
   
 
 # -Financeiro:
--Calculo financeiro por colheita/data especifica. (custo/faturamento/lucro)
-
+- Calculo financeiro por colheita/data especifica. (custo/faturamento/lucro)
+- informações/estimativas de custo/receita/lucro/prejuizo da cultura.
 
 # -Relatórios:
 - Emissão de contrato de parceria agrícola
