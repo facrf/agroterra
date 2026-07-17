@@ -33,7 +33,9 @@
 - Emissão de projeto simplificado de investimento agricola (para bancos)
 
 
-
+# -Regras e Contratos;
+- GPL v3
+- Formular documentacao (em desenvolvimento)
 
 
 
